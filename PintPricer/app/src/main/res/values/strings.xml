@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PintPricer</string>
+    <string name="home_btn">Home</string>
+    <string name="back_txt">Back</string>
+
+    ----------------Menu Text----------------
+    <string name="settings_name">Settings</string>
+    <string name="logout_name">Log Out</string>
+
+    ----------------Main Page----------------
+    <string name="login_txt">Login</string>
+
+    ----------------Customer Login Page----------------
+    <string name="email_txt">email</string>
+    <string name="password_txt">password</string>
+    <string name="register_txt">Register</string>
+
+    ----------------Selection Page---------------
+    <string name="location_prompt">Please Select Location</string>
+    <string name="drink_prompt">Please Select Drink Type</string>
+
+    <string-array name="location_array">
+        <item>Please Select A Location</item>
+        <item>Swords</item>
+        <item>Malahide</item>
+        <item>Howth</item>
+    </string-array>
+
+    <string-array name="drink_type_array">
+        <item>Please Select Drink</item>
+        <item>Vodka</item>
+        <item>Gin</item>
+        <item>Cocktails</item>
+        <item>Largers</item>
+        <item>IPA</item>
+    </string-array>
+
+    <string name="next_location_btn">Select a Location</string>
+    <string name="next_drink_btn">Select a Drink Type</string>
+
+
+</resources>

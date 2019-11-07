@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1097648019936",
+    "firebase_url": "https://pintpricer-a11ea.firebaseio.com",
+    "project_id": "pintpricer-a11ea",
+    "storage_bucket": "pintpricer-a11ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097648019936:android:0e10f1363542f1c7",
+        "android_client_info": {
+          "package_name": "ie.ncirl.student.pintpricerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097648019936-st6fud43tcqmn20j3lc068qa69hu63dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.ncirl.student.pintpricerv2",
+            "certificate_hash": "0e2c92181c5e6960fec8f13d221548d7960d2e24"
+          }
+        },
+        {
+          "client_id": "1097648019936-g74fjs76ugvfn4g4kdjj5khtbjt3g9cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKx3j028ZYjSzQLHr38cjBYZuJCsw_U9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097648019936-g74fjs76ugvfn4g4kdjj5khtbjt3g9cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
